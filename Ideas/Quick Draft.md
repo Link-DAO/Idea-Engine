@@ -10,6 +10,7 @@ Why not to build an game for simulate how to build & gov an dao ? 为什么不�
 我们可以找到非常多可以参考的模拟经营类的游戏，现在的 DAO 是一种有趣的但是尚不成熟且充满了探索的组织形式。
 如果可以将 DAO 的建设过程模拟为一个游戏，并且将现实中的一些治理的复杂度降低并且高度抽象化，提供一些探索的自由度和 创意工坊 的自由度，或许会非常好玩。并且这个游戏本身可能就会拥有一个 DAO 作为治理机构。
 
+---
 
 #idea 
 #product
@@ -33,6 +34,7 @@ Why not to build an game for simulate how to build & gov an dao ? 为什么不�
 - 通过手机 NFC 触碰收款者的某个设备，来主动输入自己的应付金额，从而自动计算费用
 - 通过群组生成连接到社交关系（因为能够使用这个工具的人群大概率是熟人，至少也是朋友）
 
+---
 
 #idea
 
